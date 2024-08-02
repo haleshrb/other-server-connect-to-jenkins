@@ -1,1 +1,1 @@
-# other-server-connect-to-jenkins
+the file can be reached
